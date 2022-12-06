@@ -1,0 +1,50 @@
+{
+  "alunos": [
+    {
+      "nome": "Patrícia Marcela Sara Novaes",
+      "matricula": "003",
+      "curso": "Sistemas para internet",
+      "id": 3
+    },
+    {
+      "nome": "PEDRO HENRIQUE SILVA BARROS",
+      "matricula": "1585355",
+      "curso": "Redes",
+      "id": 4
+    }
+  ],
+  "disciplinas": [
+    {
+      "nomeDisciplina": "Programação Avançada",
+      "cargaHoraria": "45h",
+      "professor": "Nélio Frazão",
+      "status": "Opcional",
+      "observacos": "Disciplina do Professor Nélio",
+      "id": 1
+    },
+    {
+      "nomeDisciplina": "Programação Avançada",
+      "cargaHoraria": "45h",
+      "professor": "Nélio Frazão",
+      "status": "Obrigatória",
+      "observacos": "Disciplina do Professor Nélio",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nomeDisciplina": "Linguagens de Marcação",
+      "cargaHoraria": "67h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+      "id": 4,
+      "nomeDisciplina": "Português Instrumental",
+      "cargaHoraria": "50h",
+      "professor": "Maitê Analu Carolina Aragão",
+      "status": "Opcional",
+      "observacos": "Lorem ipsum dolor sit adipisicing elit."
+    }
+  ]
+}
